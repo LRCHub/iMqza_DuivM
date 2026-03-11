@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Meltdown",
+  "base_artist": "Motionless In White",
+  "createdAt": "2026-03-11T14:20:00.506656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Meltdown",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/01_Meltdown_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Meltdown",
+      "artist": "ASH",
+      "has_synced": false,
+      "path": "select/02_Meltdown_ASH.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lamborghini Meltdown",
+      "artist": "Tobacco feat. Zackey Force Funk",
+      "has_synced": false,
+      "path": "select/03_Lamborghini_Meltdown_Tobacco_feat._Zackey_Force_Funk.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Meltdown",
+      "artist": "Air Formation",
+      "has_synced": false,
+      "path": "select/04_Meltdown_Air_Formation.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Yourself High (Felix da Housecat's Chemical Meltdown mix)",
+      "artist": "The Chemical Brothers feat. k-os",
+      "has_synced": false,
+      "path": "select/05_Get_Yourself_High_(Felix_da_Housecat's_Chemical_Meltdown_mix)_The_Chemical_Brothers_feat._k-os.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Meltdown",
+      "artist": "Real Life",
+      "has_synced": true,
+      "path": "select/06_Meltdown_Real_Life.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Meltdown (radio edit)",
+      "artist": "Real Life",
+      "has_synced": false,
+      "path": "select/07_Meltdown_(radio_edit)_Real_Life.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Meltdown",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/08_Meltdown_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Metal Meltdown",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/09_Metal_Meltdown_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "...Meltdown",
+      "artist": "Enter Shikari",
+      "has_synced": true,
+      "path": "select/10_...Meltdown_Enter_Shikari.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Meltdown (Quickfire Round) - Live At Alexandra Palace 2",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/11_Meltdown_(Quickfire_Round)_-_Live_At_Alexandra_Palace_2_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Meltdown",
+      "artist": "The Gathering",
+      "has_synced": true,
+      "path": "select/12_Meltdown_The_Gathering.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Razorblade Meltdown",
+      "artist": "DragonForce",
+      "has_synced": false,
+      "path": "select/13_Razorblade_Meltdown_DragonForce.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lamborghini Meltdown (feat. Zackey Force Funk)",
+      "artist": "Tobacco",
+      "has_synced": false,
+      "path": "select/14_Lamborghini_Meltdown_(feat._Zackey_Force_Funk)_Tobacco.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Meltdown",
+      "artist": "King Crimson",
+      "has_synced": false,
+      "path": "select/15_Meltdown_King_Crimson.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Meltdown (Live in Chicago 28 June 2017)",
+      "artist": "King Crimson",
+      "has_synced": true,
+      "path": "select/16_Meltdown_(Live_in_Chicago_28_June_2017)_King_Crimson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Meltdown",
+      "artist": "Motionless In White",
+      "has_synced": false,
+      "path": "select/pl_01_Meltdown_Motionless_In_White.txt"
+    }
+  ]
+}
