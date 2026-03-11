@@ -1,0 +1,86 @@
+# Motionless In White – Meltdown
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+It feels so frantic, automatic,
+a collapsing paradigm
+Everybody's dancing,
+on the ashes,
+all hail the end of time
+We're wrapped in chain reactions
+from words of mass destruction
+So we explode in the snow globe
+while the cure is classified
+Ignoring the warming
+and now we're globally mourning
+And it's too late for a warning,
+it's too late
+Run away, run away
+Man-infested destiny
+No escape, no escape
+Headfirst into the outbreak
+This is our apocalypse
+Doomsday at our fingertips
+(3) Trigger the countdown
+(2) Run up the head count
+(1) We're all invited,
+invited to the meltdown
+Spiral to extinction,
+and we know we're fucked
+Cause you can't spell out
+"virus" without "us"
+Contagion, we're cutting
+our throats with our own knives
+The end of mankind
+will be televised
+On tonight's series finale,
+we're all gonna fuckin' die
+Run away, run away
+Man-infested destiny
+No escape, no escape
+Headfirst into the outbreak
+This is our apocalypse
+Doomsday at our fingertips
+(3) Trigger the countdown
+(2) Run up the head count
+(1) We're all invited,
+invited to the meltdown
+Warning: please remain calm
+and evacuate immediately
+Humanity has begun
+self destruction
+Bottom line feeder,
+parasite preacher
+Writing off lives (Like)
+you're in bed with the reaper
+Sealed with a kiss,
+decease to exist
+Havoc is automatic
+Surrender to the static
+We love it cinematic
+Oh my god, don't panic.
+Shock the system
+Let the axe fall to your knees
+Land of disease
+Kill or be killed
+the American scream
+Bottom line feeder,
+parasite preacher
+Now your judgement day is here
+Run away, run away
+Man-infested destiny
+No escape, no escape
+Headfirst into the outbreak
+This is our apocalypse
+Doomsday at our fingertips
+(3) Side effects
+(2) are not allowed
+(1) But may include a meltdown
+(3) Celebrate
+(2) the fallout
+(1) I'm warming up up up
+to a meltdown
+Collapsing in static
+Out of time, don't panic
+```
